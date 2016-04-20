@@ -16,7 +16,7 @@ krb5基于最新的krb5-1.14.1版本，修改了部分代码，未经过完整�
 - configure
 
   ```shell
-  ./configure --prefix=/usr/local/arm/krb5 --host=arm-linux-androideabi --cache-file=linux-cache (如果需要修改路径可以使用--prefix)
+  ./configure --host=arm-linux-androideabi --cache-file=linux-cache (如果需要修改路径可以使用--prefix)
   ```
 
 
