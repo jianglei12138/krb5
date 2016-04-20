@@ -1,0 +1,5 @@
+HIDDEN { local: __*; _rest*; _save*; *; };
+localauth_test_0_MIT {
+localauth_test1_initvt;
+localauth_test2_initvt;
+};

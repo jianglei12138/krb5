@@ -1,0 +1,4 @@
+HIDDEN { local: __*; _rest*; _save*; *; };
+kadm5_hook_test_0_MIT {
+kadm5_hook_test_initvt;
+};
